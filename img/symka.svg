@@ -1,0 +1,31 @@
+<svg width="189" height="118" viewBox="0 0 189 118" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M90.0356 11.5144C72.9003 11.3779 60.9871 13.8335 43.7135 32.387L31.1587 32.387C47.1886 13.015 63.7798 0.600553 90.0356 1.00982C116.291 1.41909 138.808 12.0105 150.839 32.387H139.103C118.307 12.296 107.171 11.6508 90.0356 11.5144Z" fill="#E82D34" stroke="black" stroke-width="2"/>
+<ellipse cx="13.6922" cy="113.048" rx="5.868" ry="3.41163" fill="black" stroke="black" stroke-width="2"/>
+<ellipse cx="174.719" cy="113.048" rx="5.868" ry="3.41163" fill="black" stroke="black" stroke-width="2"/>
+<path d="M1 112.911V38.4013H187.821V112.911H1Z" fill="#E82D34" stroke="black" stroke-width="2"/>
+<rect x="28.8384" y="32.1239" width="18.2863" height="6.2774" fill="black" stroke="black" stroke-width="2"/>
+<rect x="135.554" y="32.1239" width="18.2863" height="6.2774" fill="black" stroke="black" stroke-width="2"/>
+<path d="M94.2055 69.6867C99.9218 69.6867 104.805 75.1391 104.805 82.1967C104.805 89.2543 99.9218 94.7068 94.2055 94.7068C88.4892 94.7068 83.606 89.2543 83.606 82.1967C83.606 75.1391 88.4892 69.6867 94.2055 69.6867Z" fill="white" stroke="black" stroke-width="2"/>
+<path d="M7 71V74" stroke="black"/>
+<path d="M182 71V74" stroke="black"/>
+<path d="M7 75V78" stroke="black"/>
+<path d="M182 75V78" stroke="black"/>
+<path d="M7 79V82" stroke="black"/>
+<path d="M182 79V82" stroke="black"/>
+<path d="M7 83V86" stroke="black"/>
+<path d="M182 83V86" stroke="black"/>
+<path d="M7 87V90" stroke="black"/>
+<path d="M182 87V90" stroke="black"/>
+<path d="M7 91V94" stroke="black"/>
+<path d="M182 91V94" stroke="black"/>
+<path d="M7 95V98" stroke="black"/>
+<path d="M182 95V98" stroke="black"/>
+<path d="M7 99V102" stroke="black"/>
+<path d="M182 99V102" stroke="black"/>
+<path d="M7 103V106" stroke="black"/>
+<path d="M182 103V106" stroke="black"/>
+<path d="M7 107V110" stroke="black"/>
+<path d="M182 107V110" stroke="black"/>
+<rect x="7" y="39" width="174" height="29" fill="white" stroke="black" stroke-width="2"/>
+<path d="M103.623 65.4095C96.0838 63.5499 91.9759 63.6359 84.7908 65.4095V71.414H89.7035V73.461V85.3335C89.7035 86.6981 96.1174 89.018 98.9831 85.3335V73.461V71.414H103.623V65.4095Z" fill="#E82D34" stroke="black" stroke-width="2"/>
+</svg>
